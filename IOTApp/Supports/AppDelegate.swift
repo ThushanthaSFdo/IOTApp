@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  IOTApp
 //
-//  Created by Shermin Fernando on 16/11/2024.
+//  Created by Thushantha Fernando on 16/11/2024.
 //
 
 import UIKit
